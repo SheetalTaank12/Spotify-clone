@@ -1,2 +1,2 @@
 # Spotify-clone
-pushed from local system
+made using html and css
